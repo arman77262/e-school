@@ -1,0 +1,96 @@
+.header{
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background: #c9fdc9;
+}
+
+.sign-up{
+    background-color: #21B573;
+    color: white;
+    border-radius: 50px;
+    padding: 5px 5px;
+}
+.sudule-font{
+    font-weight: bold;
+    line-height: 50px;
+}
+.four{
+    font-size: 20px;
+    background-color: #21B573;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 12px;
+    font-weight: bold;
+}
+.btn{
+    width: 130px;
+    background-color: #21B573;
+    color: white;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.btn-buy{
+    width: 130px;
+    background-color: #21B573;
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+    padding: 8px 30px;
+    margin-bottom: 0;
+}
+
+.mtb{
+    margin-top: 30px;
+}
+
+.tainy-div{
+    width: 270px;
+    height: 270px;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    background-color: #e9fff2;
+    border-radius: 15px;
+}
+
+.tainy-img img{
+  width: 66px;
+}
+.tainy-impo{
+    background-color: white;
+    box-shadow: 5px 5px 20px lightgray;
+}
+
+.card-bg{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30%;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card{
+    padding: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+
+.card-footer img{
+    width: 17px;
+}
+
+#card-footer{
+    padding: 0;
+}
+
+.footer{
+    height: 300px;
+    background-color: #282531;;
+    color: white;
+}
+.text-justify{
+    text-align: justify;
+    padding: 5px;
+}
+
